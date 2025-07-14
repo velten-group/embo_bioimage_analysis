@@ -1,0 +1,6 @@
+# python 3.10.17
+jupyter==1.1.1
+spatialdata==0.3.0
+spatialdata-io==0.2.0
+spatialdata-plot==0.2.10
+squidpy==1.6.5
