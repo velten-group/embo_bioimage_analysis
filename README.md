@@ -4,19 +4,15 @@ This repository contains material for the 2025 [EMBO Practical course "Advanced 
 
 # Data
 
-External data for this session can be found here: #TODO: add link
+External data for this session can be found here: 
 
-and you should wget it to this repository, so you have following structure:
+https://heibox.uni-heidelberg.de/d/99c8794ee78d41b0954e/
 
-embo_bioimage_analysis/
-├── data/
-
-You could do the following:
+Download the data to this repository, so you have following structure:
 
 ```bash
-mkdir data
-cd data
-wget [your-data-url]
+embo_bioimage_analysis/
+├── data/
 ```
 
 # Environment
