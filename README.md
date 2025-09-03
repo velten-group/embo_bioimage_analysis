@@ -2,6 +2,8 @@
 
 This repository contains material for the 2025 [EMBO Practical course "Advanced methods in bioimage analysis"](https://www.embl.org/about/info/course-and-conference-office/events/bia25-01/).
 
+Please select the 16 CPU, 48 G option in your BARD environment to have smooth running scripts. Thanks to Yi Sun for setting this up!
+
 # Data
 
 External data for this session can be found here: 
